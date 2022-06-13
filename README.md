@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @focus32
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @focus32
+- 👀 I’m interested in making public contest
+- 🌱 I’m currently learning computing functions
+- 💞️ I’m looking to collaborate with this platform
+- 📫 How to reach me
 
 <!---
 focus32/focus32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
